@@ -1,10 +1,15 @@
 # sw + streams + iframe
 
 **Build**
+
 ant build.xml
+
 **Run**
+
 java -jar Web.jar
+
 **Navigate to:** 
+
 localhost:10000
 
 **What is this all about?**
